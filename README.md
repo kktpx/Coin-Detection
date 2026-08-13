@@ -1,4 +1,4 @@
-## 🪙 Thai Coin Detection
+##  Thai Coin Detection
 
 **Mini Project — AI & Computer Vision**
 
